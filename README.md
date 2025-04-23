@@ -7,7 +7,6 @@ Responsive and modern design
 Custom templates for enhanced content presentation
 
 Optimized for performance and SEO​
-GitHub
 
 ## 📁 Installation
 1. Navigate to your WordPress themes directory:
